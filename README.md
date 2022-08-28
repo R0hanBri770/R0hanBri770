@@ -1,4 +1,5 @@
-- Hello! I’m @R0hanBri770 ✌️
+# About me 
+- Hello world! I’m @R0hanBri770 ✌️
 - I love learning new things that will motivate me to create things that I could be proud of. 
 - I’m currently exploring programming languages like Python and Java but plan to learn much more of them in the future 
 
